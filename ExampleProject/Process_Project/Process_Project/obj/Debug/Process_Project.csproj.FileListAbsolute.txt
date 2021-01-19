@@ -1,0 +1,10 @@
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\obj\Debug\Process_Project.csprojAssemblyReference.cache
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\obj\Debug\Process_Test.Form1.resources
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\obj\Debug\Process_Project.csproj.GenerateResource.cache
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\obj\Debug\Process_Project.csproj.CoreCompileInputs.cache
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\bin\Debug\Process_Project.exe.config
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\bin\Debug\Process_Project.exe
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\bin\Debug\Process_Project.pdb
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\obj\Debug\Process_Project.Properties.Resources.resources
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\obj\Debug\Process_Project.exe
+C:\Users\ywm20\Desktop\GitHub\AutoBot_OpenSource\ExampleProcess\Process_Test\Process_Test\obj\Debug\Process_Project.pdb

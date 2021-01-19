@@ -1,0 +1,14 @@
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\bin\x64\Debug\KAKAO_API.exe.config
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\bin\x64\Debug\KAKAO_API.exe
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\bin\x64\Debug\KAKAO_API.pdb
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.csprojAssemblyReference.cache
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.Form1.resources
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.KakaoLoginPage.resources
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.Properties.Resources.resources
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.csproj.GenerateResource.cache
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.csproj.CoreCompileInputs.cache
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.csproj.CopyComplete
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.exe
+C:\Users\ywm20\Desktop\KAKAO_API\KAKAO_API\obj\x64\Debug\KAKAO_API.pdb

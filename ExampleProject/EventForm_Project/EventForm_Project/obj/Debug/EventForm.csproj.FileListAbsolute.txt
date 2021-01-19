@@ -1,0 +1,13 @@
+C:\Users\ywm20\Desktop\EventForm\EventForm\bin\Debug\EventForm.exe.config
+C:\Users\ywm20\Desktop\EventForm\EventForm\bin\Debug\EventForm.exe
+C:\Users\ywm20\Desktop\EventForm\EventForm\bin\Debug\EventForm.pdb
+C:\Users\ywm20\Desktop\EventForm\EventForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.csprojAssemblyReference.cache
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.EventForm.resources
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.Form1.resources
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.Properties.Resources.resources
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.csproj.GenerateResource.cache
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.csproj.CoreCompileInputs.cache
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.csproj.CopyComplete
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.exe
+C:\Users\ywm20\Desktop\EventForm\EventForm\obj\Debug\EventForm.pdb

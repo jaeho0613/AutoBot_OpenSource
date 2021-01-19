@@ -1,0 +1,10 @@
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\bin\Debug\Process_Test.exe.config
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\bin\Debug\Process_Test.exe
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\bin\Debug\Process_Test.pdb
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\obj\Debug\Process_Test.csprojAssemblyReference.cache
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\obj\Debug\Process_Test.Form1.resources
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\obj\Debug\Process_Test.Properties.Resources.resources
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\obj\Debug\Process_Test.csproj.GenerateResource.cache
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\obj\Debug\Process_Test.csproj.CoreCompileInputs.cache
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\obj\Debug\Process_Test.exe
+C:\Users\ywm20\Desktop\Process_Test\Process_Test\obj\Debug\Process_Test.pdb
