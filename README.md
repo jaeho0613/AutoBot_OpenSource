@@ -1,6 +1,7 @@
 # AutoBot_OpenSource
 
-<img src="./img/AutobotLogo_Removebg.png" width = 300>
+[![cover](./img/AutobotLogo_Removebg.png)](https://www.youtube.com/watch?v=uqiY_91hyfg&t=109s)  
+**(사진 클릭 시 유튜브 영상)**  
 
 KakaoAPI, Riot LCU API, Web 크롤링등을 활용한 리그오브레전드 유틸리티 프로그램입니다.
 
